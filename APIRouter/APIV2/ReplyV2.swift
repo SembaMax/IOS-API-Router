@@ -9,9 +9,9 @@
 import Foundation
 
 //<summary>
-//A generic data class that use generics<T> to handle all the possible API models (Request/Response).
-//The same interface has to be implemented with the same structure at Backend side.
-//This one is used with Codable models.
+//A generic data class that uses generics<T> to handle all the possible API models (Request/Response).
+//The same interface has to be implemented with the same structure at the Backend side.
+//This class is implementing Codable models of Swift 4.
 //Finally: This model is architected by Eng.Tarek Samy https://www.linkedin.com/in/tsamy/
 //</summary>
 

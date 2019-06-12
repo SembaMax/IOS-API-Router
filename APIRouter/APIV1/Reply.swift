@@ -10,9 +10,9 @@ import Foundation
 import SwiftyJSON
 
 //<summary>
-//A generic data class that use generics<T> to handle all the possible API models (Request/Response).
-//The same interface has to be implemented with the same structure at Backend side.
-//This one is used with SwiftyJSON models.
+//A generic data class that uses generics<T> to handle all the possible API models (Request/Response).
+//The same interface has to be implemented with the same structure at the Backend side.
+//This class is implementing the SwiftyJSON models.
 //Finally: This model is architected by Eng.Tarek Samy https://www.linkedin.com/in/tsamy/
 //</summary>
 open class Reply {
